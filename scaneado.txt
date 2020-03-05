@@ -13,3 +13,11 @@ e-mail:       fneves@registro.br
 e-mail:      bonieky@gmail.com
 owner:       Bonieky Lacerda Leal
 ==============================
+ownerid:     29.553.960/0001-60
+e-mail:       demi@registro.br
+e-mail:       fneves@registro.br
+e-mail:      hostmaster@safenames.net
+e-mail:      hostmaster@safenames-agent.com.br
+e-mail:      hostmaster@safenames-agent.com.br
+owner:       UDEMY SERVICOS PROMOCIONAIS SOCIEDADE LIMITADA
+==============================
