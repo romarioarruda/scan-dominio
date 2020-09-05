@@ -6,4 +6,3 @@ Também é possível coletar o código fonte da página index do site.
 
 Através do terminal, é possivel escolher quais ações executar.
 
-Escrito em Shell script.
